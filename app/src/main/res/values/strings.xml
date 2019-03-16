@@ -1,0 +1,329 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=20] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for scenery [CHAR LIMIT=20] -->
+    <string name="category_scenery">Scenery</string>
+
+    <!-- list_item content description [CHAR LIMIT=20] -->
+    <string name="location_image">Location image</string>
+
+    <!-- References: Addresses and phone numbers taken from Yelp -->
+
+    <!-- Location name for the attraction Golden Gate Bridge -->
+    <string name="attraction_golden_gate_bridge">Golden Gate Bridge</string>
+
+    <!-- Location name for the attraction Golden Gate Park -->
+    <string name="attraction_golden_gate_park">Golden Gate Park</string>
+
+    <!-- Location name for the attraction Pier 39 -->
+    <string name="attraction_pier_39">Pier 39</string>
+
+    <!-- Location name for the attraction Fisherman's Wharf -->
+    <string name="attraction_fishermans_wharf">Fisherman\'s Wharf</string>
+
+    <!-- Location name for the attraction Palace of Fine Arts -->
+    <string name="attraction_palace_of_fine_arts">Palace of Fine Arts</string>
+
+    <!-- Location name for the attraction Alcatraz Cruises -->
+    <string name="attraction_alcatraz_cruises">Alcatraz Cruises</string>
+
+    <!-- Location name for the attraction Ghirardelli Square -->
+    <string name="attraction_ghirardelli_square">Ghirardelli Square</string>
+
+    <!-- Location name for the attraction The Presidio -->
+    <string name="attraction_the_presidio">The Presidio</string>
+
+    <!-- Location name for the attraction Land's End -->
+    <string name="attraction_lands_end">Land\'s End</string>
+
+    <!-- Location name for the attraction Alamo Square -->
+    <string name="attraction_alamo_square">Alamo Square</string>
+
+    <!-- Address for the attraction Golden Gate Bridge -->
+    <string name="address_golden_gate_bridge">San Francisco, CA 94129</string>
+
+    <!-- Address for the attraction Golden Gate Park -->
+    <string name="address_golden_gate_park">501 Stanyan St, San Francisco, CA 94117</string>
+
+    <!-- Address for the attraction Pier 39  -->
+    <string name="address_pier_39">The Embarcadero and Beach St, San Francisco, CA 94133</string>
+
+    <!-- Address for the attraction Fisherman's Wharf -->
+    <string name="address_fishermans_wharf">North Beach/Telegraph Hill, San Francisco, CA
+        94133</string>
+
+    <!-- Address for the attraction Palace of Fine Arts -->
+    <string name="address_palace_of_fine_arts">3601 Lyon St, San Francisco, CA 94123</string>
+
+    <!-- Address for the attraction Alcatraz Cruises -->
+    <string name="address_alcatraz_cruises">Alcatraz Landing Pier 33, San Francisco, CA
+        94111</string>
+
+    <!-- Address for the attraction Ghirardelli Square -->
+    <string name="address_ghirardelli_square">900 North Point, San Francisco, CA 94109</string>
+
+    <!-- Address for the attraction The Presidio -->
+    <string name="address_the_presidio">Presidio, San Francisco, CA 94129</string>
+
+    <!-- Address for the attraction Land's End -->
+    <string name="address_lands_end">Seal Rock Dr and El Camino Del Mar, San Francisco, CA
+        94101</string>
+
+    <!-- Address for the attraction Alamo Square -->
+    <string name="address_alamo_square">Steiner St and Hayes St, San Francisco, CA 94115</string>
+
+    <!-- Location name for the restaurant House of Prime Rib -->
+    <string name="restaurant_house_of_prime_rib">House of Prime Rib</string>
+
+    <!-- Location name for the restaurant Marugame Udon -->
+    <string name="restaurant_marugame_udon">Marugame Udon</string>
+
+    <!-- Location name for the restaurant Marufuku Ramen -->
+    <string name="restaurant_marufuku_ramen">Marufuku Ramen</string>
+
+    <!-- Location name for the restaurant Fog Harbor Fish House -->
+    <string name="restaurant_fog_harbor_fish_house">Fog Harbor Fish House</string>
+
+    <!-- Location name for the restaurant Delicious Dim Sum -->
+    <string name="restaurant_delicious_dim_sum">Delicious Dim Sum</string>
+
+    <!-- Location name for the restaurant Sushirrito -->
+    <string name="restaurant_sushirrito">Sushirrito</string>
+
+    <!-- Location name for the restaurant IPOT -->
+    <string name="restaurant_ipot">IPOT</string>
+
+    <!-- Location name for the restaurant Japanese Tea Garden -->
+    <string name="restaurant_japanese_tea_garden">Japanese Tea Garden</string>
+
+    <!-- Location name for the restaurant MAC'D -->
+    <string name="restaurant_macd">MAC\'D</string>
+
+    <!-- Location name for the restaurant Z&Y Restaurant -->
+    <string name="restaurant_zy_restaurant">Z&amp;Y Restaurant</string>
+
+    <!-- Address for the restaurant House of Prime Rib -->
+    <string name="address_house_of_prime_rib">1906 Van Ness Ave, San Francisco, CA 94109</string>
+
+    <!-- Address for the restaurant Marugame Udon -->
+    <string name="address_marugame_udon">3251 20th Ave, San Francisco, CA 96815</string>
+
+    <!-- Address for the restaurant Marufuku Ramen -->
+    <string name="address_marufuku_ramen">1581 Webster St, San Francisco, CA 94115</string>
+
+    <!-- Address for the restaurant Fog Harbor Fish House -->
+    <string name="address_fog_harbor_fish_house">Pier 39, San Francisco, CA 94133</string>
+
+    <!-- Address for the restaurant Delicious Dim Sum -->
+    <string name="address_delicious_dim_sum">752 Jackson St, San Francisco, CA 94133</string>
+
+    <!-- Address for the restaurant Sushirrito -->
+    <string name="address_sushirrito">226 Kearny St, San Francisco, CA 94108</string>
+
+    <!-- Address for the restaurant IPOT -->
+    <string name="address_ipot">1420 Irving St, San Francisco, CA 94122</string>
+
+    <!-- Address for the restaurant Japanese Tea Garden -->
+    <string name="address_japanese_tea_garden">75 Hagiwara Tea Garden Dr, San Francisco, CA
+        94118</string>
+
+    <!-- Address for the restaurant MAC'D -->
+    <string name="address_macd">3347 Fillmore St, San Francisco, CA 94123</string>
+
+    <!-- Address for the restaurant Z&Y Restaurant -->
+    <string name="address_zy_restaurant">655 Jackson St, San Francisco, CA 94133</string>
+
+    <!-- Phone number for the restaurant House of Prime Rib -->
+    <string name="phone_number_house_of_prime_rib">(415) 885-4605</string>
+
+    <!-- Phone number for the restaurant Marugame Udon -->
+    <string name="phone_number_marugame_udon">(415) 680-1280</string>
+
+    <!-- Phone number for the restaurant Marufuku Ramen -->
+    <string name="phone_number_marufuku_ramen">(415) 872-9786</string>
+
+    <!-- Phone number for the restaurant Fog Harbor Fish House -->
+    <string name="phone_number_fog_harbor_fish_house">(415) 421-2442</string>
+
+    <!-- Phone number for the restaurant Delicious Dim Sum -->
+    <string name="phone_number_delicious_dim_sum">(415) 781-0721</string>
+
+    <!-- Phone number for the restaurant Sushirrito -->
+    <string name="phone_number_sushirrito">(415) 544-9868</string>
+
+    <!-- Phone number for the restaurant IPOT -->
+    <string name="phone_number_ipot">(628) 400-5970</string>
+
+    <!-- Phone number for the restaurant Japanese Tea Garden -->
+    <string name="phone_number_japanese_tea_garden">(415) 752-1171</string>
+
+    <!-- Phone number for the restaurant MAC'D -->
+    <string name="phone_number_macd">(415) 795-1026</string>
+
+    <!-- Phone number for the restaurant Z&Y Restaurant -->
+    <string name="phone_number_zy_restaurant">(415) 981-8988</string>
+
+    <!-- Location name for the museum Exploratorium -->
+    <string name="museum_exploratorium">Exploratorium</string>
+
+    <!-- Location name for the museum CalAcademy of Sciences -->
+    <string name="museum_calacademy_of_sciences">CalAcademy of Sciences</string>
+
+    <!-- Location name for the museum Alcatraz Island -->
+    <string name="museum_alcatraz_island">Alcatraz Island</string>
+
+    <!-- Location name for the museum Coit Tower -->
+    <string name="museum_coit_tower">Coit Tower</string>
+
+    <!-- Location name for the museum Museum of Ice Cream -->
+    <string name="museum_museum_of_ice_cream">Museum of Ice Cream</string>
+
+    <!-- Location name for the museum Musee Mecanique -->
+    <string name="museum_musee_mecanique">Musee Mecanique</string>
+
+    <!-- Location name for the museum de Young Museum -->
+    <string name="museum_de_young_museum">de Young Museum</string>
+
+    <!-- Location name for the museum Walt Disney Museum -->
+    <string name="museum_walt_disney_museum">Walt Disney Museum</string>
+
+    <!-- Location name for the museum Candytopia -->
+    <string name="museum_candytopia">Candytopia</string>
+
+    <!-- Location name for the museum Museum of Modern Art -->
+    <string name="museum_museum_of_modern_art">Museum of Modern Art</string>
+
+    <!-- Address for the museum Exploratorium -->
+    <string name="address_exploratorium">Pier 15, San Francisco, CA 94111</string>
+
+    <!-- Address for the museum CalAcademy of Sciences -->
+    <string name="address_calacademy_of_sciences">55 Music Concourse Dr, San Francisco, CA
+        94118</string>
+
+    <!-- Address for the museum Alcatraz Island -->
+    <string name="address_alcatraz_island">Alcatraz Island, San Francisco, CA 94122</string>
+
+    <!-- Address for the museum Coit Tower -->
+    <string name="address_coit_tower">1 Telegraph Hill Blvd, San Francisco, CA 94133</string>
+
+    <!-- Address for the museum Museum of Ice Cream -->
+    <string name="address_museum_of_ice_cream">1 Grant Ave, San Francisco, CA 94108</string>
+
+    <!-- Address for the museum Musee Mecanique -->
+    <string name="address_musee_mecanique">Pier 45, San Francisco, CA 94133</string>
+
+    <!-- Address for the museum de Young Museum -->
+    <string name="address_de_young_museum">50 Hagiwara Tea Garden Dr, San Francisco, CA
+        94118</string>
+
+    <!-- Address for the museum Walt Disney Museum -->
+    <string name="address_walt_disney_museum">104 Montgomery St, San Francisco, CA 94129</string>
+
+    <!-- Address for the museum Candytopia -->
+    <string name="address_candytopia">767 Market St, San Francisco, CA 94103</string>
+
+    <!-- Address for the museum Museum of Modern Art -->
+    <string name="address_museum_of_modern_art">151 3rd St, San Francisco, CA 94103</string>
+
+    <!-- Phone number for the museum Exploratorium -->
+    <string name="phone_number_exploratorium">(415) 528-4444</string>
+
+    <!-- Phone number for the museum CalAcademy of Sciences -->
+    <string name="phone_number_calacademy_of_sciences">(415) 379-8000</string>
+
+    <!-- Phone number for the museum Alcatraz Island -->
+    <string name="phone_number_alcatraz_island">(415) 561-4900</string>
+
+    <!-- Phone number for the museum Coit Tower -->
+    <string name="phone_number_coit_tower">(415) 249-0995</string>
+
+    <!-- Phone number for the museum Museum of Ice Cream -->
+    <string name="phone_number_museum_of_ice_cream">(855) 258-0719</string>
+
+    <!-- Phone number for the museum Musee Mecanique -->
+    <string name="phone_number_musee_mecanique">(415) 346-2000</string>
+
+    <!-- Phone number for the museum de Young Museum -->
+    <string name="phone_number_de_young_museum">(415) 750-3600</string>
+
+    <!-- Phone number for the museum Walt Disney Museum -->
+    <string name="phone_number_walt_disney_museum">(415) 345-6800</string>
+
+    <!-- Phone number for the museum Candytopia -->
+    <string name="phone_number_candytopia">(646) 779-3387</string>
+
+    <!-- Phone number for the museum Museum of Modern Art -->
+    <string name="phone_number_museum_of_modern_art">(415) 357-4000</string>
+
+    <!-- Location name for the scenery Twin Peaks -->
+    <string name="scenery_twin_peaks">Twin Peaks</string>
+
+    <!-- Location name for the scenery Filbert Steps -->
+    <string name="scenery_filbert_steps">Filbert Steps</string>
+
+    <!-- Location name for the scenery 16th Ave Tiled Steps -->
+    <string name="scenery_16th_ave_tiled_steps">16th Ave Tiled Steps</string>
+
+    <!-- Location name for the scenery Wave Organ -->
+    <string name="scenery_wave_organ">Wave Organ</string>
+
+    <!-- Location name for the scenery Dolores Park -->
+    <string name="scenery_dolores_park">Dolores Park</string>
+
+    <!-- Location name for the scenery Crissy Fields -->
+    <string name="scenery_crissy_fields">Crissy Fields</string>
+
+    <!-- Location name for the scenery Hidden Garden Steps -->
+    <string name="scenery_hidden_garden_steps">Hidden Garden Steps</string>
+
+    <!-- Location name for the scenery Billy Goat Hill -->
+    <string name="scenery_billy_goat_hill">Billy Goat Hill</string>
+
+    <!-- Location name for the scenery Strawberry Hill -->
+    <string name="scenery_strawberry_hill">Strawberry Hill</string>
+
+    <!-- Location name for the scenery Lovers' Lane -->
+    <string name="scenery_lovers_lane">Lovers\' Lane</string>
+
+    <!-- Address for the scenery Twin Peaks -->
+    <string name="address_twin_peaks">501 Twin Peaks Blvd, San Francisco, CA 94114</string>
+
+    <!-- Address for the scenery Filbert Steps -->
+    <string name="address_filbert_steps">Filbert Steps and Sansome St, San Francisco, CA
+        94111</string>
+
+    <!-- Address for the scenery 16th Ave Tiled Steps -->
+    <string name="address_16th_ave_tiled_steps">Moraga St, San Francisco, CA 94122</string>
+
+    <!-- Address for the scenery Wave Organ -->
+    <string name="address_wave_organ">1 Yacht Rd, San Francisco, CA 94123</string>
+
+    <!-- Address for the scenery Dolores Park -->
+    <string name="address_dolores_park">19th and Dolores St, San Francisco, CA 94114</string>
+
+    <!-- Address for the scenery Crissy Fields -->
+    <string name="address_crissy_fields">603 Mason St, San Francisco, CA 94129</string>
+
+    <!-- Address for the scenery Hidden Garden Steps -->
+    <string name="address_hidden_garden_steps">16th Ave, San Francisco, CA 94122</string>
+
+    <!-- Address for the scenery Billy Goat Hill -->
+    <string name="address_billy_goat_hill">300 Beacon St, San Francisco, CA 94131</string>
+
+    <!-- Address for the scenery Strawberry Hill -->
+    <string name="address_strawberry_hill">50 Stow Lake Dr, San Francisco, CA 94159</string>
+
+    <!-- Address for the scenery Lovers' Lane -->
+    <string name="address_lovers_lane">Presidio Heights, San Francisco, CA 94129</string>
+
+</resources>

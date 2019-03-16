@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Primary color of the app (shown in the app bar) -->
+<color name="primary_color">#43A047</color>
+
+<!-- Primary dark color of the app (shown in the status bar) -->
+<color name="primary_dark_color">#2E7D32</color>
+
+<!-- Background color for the attractions category -->
+<color name="category_attractions">#A5D6A7</color>
+
+<!-- Background color for the restaurants category -->
+<color name="category_restaurants">#81C784</color>
+
+<!-- Background color for the museums category -->
+<color name="category_museums">#66BB6A</color>
+
+<!-- Background color for the scenery category -->
+<color name="category_scenery">#4CAF50</color>
+</resources>
